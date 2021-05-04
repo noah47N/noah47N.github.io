@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idées et Opinions</title>
+    <link>noah47N.github.io/</link>
+    <description>Recent content on Idées et Opinions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 04 May 2021 22:14:50 +0200</lastBuildDate><atom:link href="noah47N.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maurras nous regarde-t-il des cieux ?</title>
+      <link>noah47N.github.io/posts/mynewpost/</link>
+      <pubDate>Tue, 04 May 2021 22:14:50 +0200</pubDate>
+      
+      <guid>noah47N.github.io/posts/mynewpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
